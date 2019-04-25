@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/allergies/Scrabble/bin/Debug/netcoreapp2.2/Scrabble.deps.json
+/Users/Guest/Desktop/allergies/Scrabble/bin/Debug/netcoreapp2.2/Scrabble.dll
+/Users/Guest/Desktop/allergies/Scrabble/bin/Debug/netcoreapp2.2/Scrabble.pdb
+/Users/Guest/Desktop/allergies/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.csprojAssemblyReference.cache
+/Users/Guest/Desktop/allergies/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/allergies/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/allergies/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.AssemblyInfo.cs
+/Users/Guest/Desktop/allergies/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.dll
+/Users/Guest/Desktop/allergies/Scrabble/obj/Debug/netcoreapp2.2/Scrabble.pdb

@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/allergies/Scrabble.Tests/obj/Debug/netcoreapp2.2/Scrabble.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/allergies/Scrabble.Tests/obj/Debug/netcoreapp2.2/Scrabble.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/allergies/Scrabble.Tests/obj/Debug/netcoreapp2.2/Scrabble.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/allergies/Scrabble.Tests/obj/Debug/netcoreapp2.2/Scrabble.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/allergies/Scrabble.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/allergies/Scrabble.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/allergies/Scrabble.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/allergies/Scrabble.Tests/bin/Debug/netcoreapp2.2/Scrabble.Tests.deps.json
+/Users/Guest/Desktop/allergies/Scrabble.Tests/bin/Debug/netcoreapp2.2/Scrabble.Tests.runtimeconfig.json
+/Users/Guest/Desktop/allergies/Scrabble.Tests/bin/Debug/netcoreapp2.2/Scrabble.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/allergies/Scrabble.Tests/bin/Debug/netcoreapp2.2/Scrabble.Tests.dll
+/Users/Guest/Desktop/allergies/Scrabble.Tests/bin/Debug/netcoreapp2.2/Scrabble.Tests.pdb
+/Users/Guest/Desktop/allergies/Scrabble.Tests/bin/Debug/netcoreapp2.2/Scrabble.dll
+/Users/Guest/Desktop/allergies/Scrabble.Tests/bin/Debug/netcoreapp2.2/Scrabble.pdb
+/Users/Guest/Desktop/allergies/Scrabble.Tests/obj/Debug/netcoreapp2.2/Scrabble.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/allergies/Scrabble.Tests/obj/Debug/netcoreapp2.2/Scrabble.Tests.dll
+/Users/Guest/Desktop/allergies/Scrabble.Tests/obj/Debug/netcoreapp2.2/Scrabble.Tests.pdb
